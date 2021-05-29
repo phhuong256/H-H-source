@@ -1,0 +1,14 @@
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\bin\Debug\CPURAM.exe.config
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\bin\Debug\CPURAM.exe
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\bin\Debug\CPURAM.pdb
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\bin\Debug\MetroFramework.Design.dll
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\bin\Debug\MetroFramework.dll
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\obj\Debug\CPURAM.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\obj\Debug\CPURAM.Properties.Resources.resources
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\obj\Debug\CPURAM.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\obj\Debug\CPURAM.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\obj\Debug\CPURAM.csproj.CopyComplete
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\obj\Debug\CPURAM.exe
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\obj\Debug\CPURAM.pdb
+C:\Users\HUONG\source\repos\CPURAM\CPURAM\obj\Debug\CPURAM.Form1.resources
