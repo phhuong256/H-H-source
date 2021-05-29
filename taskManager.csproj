@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{254E65C5-4226-4186-BC7B-3777CC80AB8A}</ProjectGuid>
+    <ProjectGuid>{D6D454BE-A6F8-4651-A536-96966C845215}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CPURAM</RootNamespace>
-    <AssemblyName>CPURAM</AssemblyName>
+    <RootNamespace>taskManager</RootNamespace>
+    <AssemblyName>taskManager</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -62,10 +62,19 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmRunTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRunTask.Designer.cs">
+      <DependentUpon>frmRunTask.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRunTask.resx">
+      <DependentUpon>frmRunTask.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

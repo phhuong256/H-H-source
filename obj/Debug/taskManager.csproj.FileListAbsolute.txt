@@ -1,0 +1,15 @@
+C:\Users\HUONG\source\repos\taskManager\taskManager\bin\Debug\taskManager.exe.config
+C:\Users\HUONG\source\repos\taskManager\taskManager\bin\Debug\taskManager.exe
+C:\Users\HUONG\source\repos\taskManager\taskManager\bin\Debug\taskManager.pdb
+C:\Users\HUONG\source\repos\taskManager\taskManager\bin\Debug\MetroFramework.Design.dll
+C:\Users\HUONG\source\repos\taskManager\taskManager\bin\Debug\MetroFramework.dll
+C:\Users\HUONG\source\repos\taskManager\taskManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HUONG\source\repos\taskManager\taskManager\obj\Debug\taskManager.Form1.resources
+C:\Users\HUONG\source\repos\taskManager\taskManager\obj\Debug\taskManager.Properties.Resources.resources
+C:\Users\HUONG\source\repos\taskManager\taskManager\obj\Debug\taskManager.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\taskManager\taskManager\obj\Debug\taskManager.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\taskManager\taskManager\obj\Debug\taskManager.csproj.CopyComplete
+C:\Users\HUONG\source\repos\taskManager\taskManager\obj\Debug\taskManager.exe
+C:\Users\HUONG\source\repos\taskManager\taskManager\obj\Debug\taskManager.pdb
+C:\Users\HUONG\source\repos\taskManager\taskManager\obj\Debug\taskManager.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\taskManager\taskManager\obj\Debug\taskManager.frmRunTask.resources
